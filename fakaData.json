@@ -2,14 +2,14 @@
     {
       "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
       "name": "In Search of Lost Time",
-      "time": "4 days" ,
+      "time": 7 ,
       "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554376357l/44783040._SY475_.jpg",
       "paragraph": "Swann's Way, the first part of A la recherche de temps perdu, Marcel Proust's seven-part cycle, was published in 1913. In it, Proust introduces the themes that run through the entire work. The narrator recalls his childhood, aided by the famous madeleine; and describes M. Swann's passion for Odette. The work is incomparable. Edmund Wilson said "
     },
     {
       "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
       "name" : "Ulysses",
-      "time": "4 days" ,
+      "time": 3 ,
       "img": "https://d3i5mgdwi2ze58.cloudfront.net/f7nkbyqfsnrrlct3hs01jkrz2vdi",
       "paragraph": "Ulysses chronicles the passage of Leopold Bloom through Dublin during an ordinary day, June 16, 1904. The title parallels and alludes to Odysseus (Latinised into Ulysses), the hero of Homer's Odyss..."
 
@@ -18,29 +18,29 @@
     {
       "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
       "name": " Don Quixote",
-      "time": "4 days" ,
-      "img": "https://d3i5mgdwi2ze58.cloudfront.net/f7nkbyqfsnrrlct3hs01jkrz2vdi",
+      "time": 4  ,
+      "img": "https://i0.wp.com/literariness.org/wp-content/uploads/2019/03/41JKGW9P6AL._SX372_BO1204203200_.jpg",
       "paragraph": "Ulysses chronicles the passage of Leopold Bloom through Dublin during an ordinary day, June 16, 1904. The title parallels and alludes to Odysseus (Latinised into Ulysses), the hero of Homer's Odyss..."
 
     },
     {
       "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
       "name": "One Hundred Years of Solitude",
-      "time": "4 days" ,
+      "time": 5 ,
       "img": "https://d3i5mgdwi2ze58.cloudfront.net/zvuwrkqu2hg3eq2p6tit6fnmaor4",
       "paragraph": "One of the 20th century's enduring works, One Hundred Years of Solitude is a widely beloved and acclaimed novel known throughout the world, and the ultimate achievement in a Nobel Prize_winning car..."
     },
     {
       "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
       "name": "The Great Gatsby",
-      "time": "4 days" ,
+      "time": 11 ,
       "img": "https://d3i5mgdwi2ze58.cloudfront.net/epke1jolmtb858vv9ctbtxpa8yi6",
       "paragraph": "The novel chronicles an era that Fitzgerald himself dubbed the Jazz Age,. Following the shock and chaos of World War I, American society enjoyed unprecedented levels of prosperity during the roar..."
     },
     {
       "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
       "name": "Moby Dick",
-      "time": "4 days" ,
+      "time": 6 ,
       "img": "https://d3i5mgdwi2ze58.cloudfront.net/m8sdet02cc7mdl8l6jow8cpl7co2",
       "paragraph": "The novel chronicles an era that Fitzgerald himself dubbed the Jazz Age,. Following the shock and chaos of World War I, American society enjoyed unprecedented levels of prosperity during the roar..."
     }
